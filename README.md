@@ -1,2 +1,2 @@
-# sitepersonalizado
-Site personalizado baseado na estrutura do primeiro feito na conclusão do curso euprogrAmo. 
+# Desafio de finalização de curso / site personalizado
+Site criado e personalizado com as tecnicas aprendidas no curso EuprogrAmo. 
